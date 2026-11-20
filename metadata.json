@@ -1,0 +1,6 @@
+{
+  "name": "SK NUR",
+  "description": "Complete Islamic Lifestyle Application — Prayer times, 114-Surah Holy Quran with audio & Bengali/English translations, Daily Duas, Digital Tasbih, Hijri & Bengali Calendar, Hadith, Qibla Compass, Ramadan & Zakat tools.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
